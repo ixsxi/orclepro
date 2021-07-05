@@ -42,7 +42,7 @@ from phone;
 --update (수정)
 update phone
 set name = '나루토',
-    hp = '010-3157-6119',
+    hp = '010-8888-4444',
     company = '010-2222-2222'
 where person_id = 3;
 
